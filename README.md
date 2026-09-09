@@ -40,8 +40,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=radical" alt="Racha de contribuciones" width="48%"/>
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=radical" alt="Racha de contribuciones" width="49%"/>
 </p>
 
 ---
