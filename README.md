@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy AntonioRT</h1>
+<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Bartender+Graduado+%F0%9F%8D%B8;Amante+de+los+Gatos+%F0%9F%90%B1+y+Hamsters+%F0%9F%90%B9;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
@@ -40,8 +40,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" alt="Racha de contribuciones" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=tokyonight" alt="Racha de contribuciones" width="48%"/>
 </p>
 
 ---
@@ -58,18 +58,3 @@
 <p align="center">
   <i>Gracias por visitar mi perfil ✨ ¡No dudes en contactarme!</i>
 </p>
-
-<!--
-**AntonioRT18/AntonioRT18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
