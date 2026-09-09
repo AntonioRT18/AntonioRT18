@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=radical" alt="Racha de contribuciones" width="49%"/>
+  <img src="https://demolab.com" alt="Racha de contribuciones" width="49%"/>
 </p>
 
 ---
