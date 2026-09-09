@@ -35,14 +35,12 @@
   <!-- Agrega o quita badges según lo que realmente uses -->
 </p>
 
-> 💡 *Tip: reemplaza estos badges por las tecnologías que realmente manejás (React, Node, C#, etc.) — en [shields.io](https://shields.io) podés generar los tuyos.*
-
 ---
 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=radical" alt="Racha de contribuciones" width="48%"/>
 </p>
 
