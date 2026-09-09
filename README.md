@@ -42,7 +42,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioRT18&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioRT18&theme=radical" alt="Racha de contribuciones" width="48%"/>
 </p>
 
