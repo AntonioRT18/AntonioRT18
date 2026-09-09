@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94057,100:8f0aa8&height=200&section=header&text=Antonio%20Rodriguez&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Ingenier%C3%ADa%20de%20Software%20%7C%20Bartender&descAlignY=55&descSize=20" width="100%"/>
-</p>
-
-
-
-
-<h1 align="center">¡Hola! 👋 Soy AntonioRT</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Bartender+Graduado+%F0%9F%8D%B8;Amante+de+los+Gatos+%F0%9F%90%B1+y+Hamsters+%F0%9F%90%B9;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+  <img src="https://assets.megamediaradios.fm/2015/08/gato6.gif" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-romero-tejeda-8b82372b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:antoniort746910@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/antoniort42"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
+  <img src="perfil.github.png" width="150" style="border-radius:50%" alt="Foto de perfil"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E4405F&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Bartender+Graduado+%F0%9F%8D%B8;Amante+de+los+Gatos+%F0%9F%90%B1+y+Hamsters+%F0%9F%90%B9;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/tu-usuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 ---
 
 ### 🚀 Sobre mí
+
+<img align="right" width="250" src="https://assets.megamediaradios.fm/2015/08/gato6.gif" alt="Gato animado"/>
 
 - 🎓 Estudiante de **Ingeniería de Software**, apasionado por aprender tecnologías nuevas e innovadoras.
 - 🤝 Me encanta **trabajar en equipo** y aportar ideas dentro de un grupo.
@@ -39,6 +40,8 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <!-- Agrega o quita badges según lo que realmente uses -->
 </p>
+
+> 💡 *Tip: reemplaza estos badges por las tecnologías que realmente manejás (React, Node, C#, etc.) — en [shields.io](https://shields.io) podés generar los tuyos.*
 
 ---
 
