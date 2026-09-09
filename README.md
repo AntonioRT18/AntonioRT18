@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.megamediaradios.fm/2015/08/gato6.gif" width="100%"/>
+  <img src="https://assets.megamediaradios.fm/2015/08/gato6.gif" width="80%"/>
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy AntonioRT</h1>
