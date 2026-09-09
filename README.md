@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="perfil.github.png" width="150" style="border-radius:50%" alt="Foto de perfil"/>
-</p>
+
 
 <h1 align="center">¡Hola! 👋 Soy AntonioRT</h1>
 
