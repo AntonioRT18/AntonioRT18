@@ -1,7 +1,6 @@
-<img align="right" width="250" src="https://assets.megamediaradios.fm/2015/08/gato6.gif" alt="Gato animado"/>
-
-
-
+<p align="center">
+  <img src="https://assets.megamediaradios.fm/2015/08/gato6.gif" width="100%"/>
+</p>
 
 <h1 align="center">¡Hola! 👋 Soy AntonioRT</h1>
 
